@@ -1,0 +1,20 @@
+(.venv) C:\github\fastapi_apps>uvicorn main:app --reload
+
+Below URL in browser shows all REST APIs
+http://127.0.0.1:8000/docs
+http://127.0.0.1:8000/docs#/default
+http://127.0.0.1:8000/docs#/default/purchase_purchase__post
+
+POST http://127.0.0.1:8000/purchase
+{
+  "user": {
+    "name": "biju",
+    "email": "biju@gmail.com"
+  },
+  "product": {
+    "name": "iphone",
+    "price": 0,
+    "discount": 0,
+    "discounted_price": 0
+  }
+}
