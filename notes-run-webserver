@@ -1,3 +1,6 @@
+
+FastAPI, Python, SQL Alchemy ORM, SQLlite
+
 (.venv) C:\github\fastapi_apps>uvicorn main:app --reload
 
 Below URL in browser shows all REST APIs
@@ -18,3 +21,10 @@ POST http://127.0.0.1:8000/purchase
     "discounted_price": 0
   }
 }
+
+
+netstat -ano | findstr :8000
+tasklist /FI "PID eq 48140"
+taskkill /F /PID 48140
+tasklist /FI "PID eq 48844"
+taskkill /F /PID 48844
