@@ -20,7 +20,6 @@ users = {
             },
         ],
         "hashed_password": "$2b$12$aE34bS5MzXpQzQVYn/PxieKH8d8JF9dmG9SKZP0flHF3jEiKYc71W",
-        "password": "alex_password_123"
     },
     "briansmith": {
         "name": "Brian Smith",
@@ -43,7 +42,6 @@ users = {
             },
         ],
         "hashed_password": "$2b$12$7f.kDiIH3LjK3Q.mGfGfU.Drm7z4eqeJiX3kS0tC/hFLtL3h6.wFq",
-        "password": "brian_password_456"
     },
     "emilyjones": {
         "name": "Emily Jones",
@@ -66,7 +64,6 @@ users = {
             },
         ],
         "hashed_password": "$2b$12$C/5DFiH1HtOkf1fD54P5o.cuYxRYYGKrmTkYmYz.jfq/nU8W9Uz5K",
-        "password": "emily_password_789"
     },
     "michaelclark": {
         "name": "Michael Clark",
@@ -89,7 +86,6 @@ users = {
             },
         ],
         "hashed_password": "$2b$12$9s4kRj8JsTpX8yVkPh3iZfhNp9dDxML3s7QPBtMwHGIFAnJbL4ZqO",
-        "password": "michael_password_123"
     },
     "sarahwilson": {
         "name": "Sarah Wilson",
@@ -112,7 +108,6 @@ users = {
             },
         ],
         "hashed_password": "$2b$12$p2mQVJ7Sy8j4F.ZRG3p/lOHGJnUyYDKw4KIQcHr5OeBFT3lJN4X1G",
-        "password": "sarah_password_456"
     },
     "davidthomas": {
         "name": "David Thomas",
@@ -135,7 +130,6 @@ users = {
             },
         ],
         "hashed_password": "$2b$12$4Ns2pJ8aXk7yN3VYN/GfXsJmW7hF4eTkG6MkGnHz/iJDJ8mL6F6U",
-        "password": "david_password_789"
     },
     "laurabrown": {
         "name": "Laura Brown",
@@ -158,7 +152,6 @@ users = {
             },
         ],
         "hashed_password": "$2b$12$W7lQeJ9GhG2yTmS4R7fM.XtVp8sK6N7u7OZJbM5LpF3nR5YT4X6yO",
-        "password": "laura_password_123"
     },
     "robertmartin": {
         "name": "Robert Martin",
@@ -181,7 +174,6 @@ users = {
             },
         ],
         "hashed_password": "$2b$12$G6hQnT8jK2mX9PnZ2E5.Ot4KJ8kRbJ4F8sYkWpN2ZC7fFxYxK3XyR",
-        "password": "robert_password_456"
     },
     "lisawilliams": {
         "name": "Lisa Williams",
@@ -204,6 +196,5 @@ users = {
             },
         ],
         "hashed_password": "$2b$12$x8yQKJ7PrW6tNkLnM5D/JZsNh7uM6gF4tG4LkTpJz/iLD8bH6X4uQ",
-        "password": "lisa_password_789"
     },
 }
