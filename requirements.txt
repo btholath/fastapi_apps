@@ -1,3 +1,7 @@
 fastapi
 uvicorn
 python-multipart
+jinja2
+fastapi-login
+passlib[bcrypt]
+python-dotenv
